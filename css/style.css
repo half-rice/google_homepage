@@ -15,6 +15,11 @@ body{
   color: #ffffff;
 }
 
+#logo{
+  height: 233px;
+  margin-top: 89px;
+}
+
 #view{
   position: absolute;
   top: 0;
